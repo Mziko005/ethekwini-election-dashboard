@@ -1,0 +1,4 @@
+Scenario,EstimatedTurnoutPct,AssumedRegistrationDenominator,EstimatedVoters,TargetYear
+Low: 2021 turnout repeats,41.90875176946279,1917955,803791,2026
+Middle: Three-election average,53.62348653793993,1917955,1028474,2026
+High: Historical maximum,59.666084495511114,1917955,1144369,2026
